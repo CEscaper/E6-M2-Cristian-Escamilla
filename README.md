@@ -1,21 +1,19 @@
-Portfolio Personal - Cristian Escamilla
+Mi Portafolio Personal
+Este es mi sitio web personal donde muestro mi experiencia como desarrollador full stack y mi trayectoria profesional.
 
-🚀 Características
+Sobre el proyecto
+Desarrollé este portfolio para tener un espacio donde mostrar mis habilidades técnicas y experiencia laboral. Es un proyecto simple pero funcional, hecho con las tecnologías que he ido aprendiendo.
 
-Diseño responsive adaptable a todos los dispositivos
-Navegación fluida entre secciones
-Formulario de contacto interactivo
-Secciones organizadas: Inicio, Sobre Mí, Experiencia, Habilidades y Contacto
+Qué incluye
+El sitio tiene varias secciones donde cuento un poco sobre mí, mi experiencia trabajando en diferentes empresas, las tecnologías que manejo y un formulario de contacto por si alguien quiere comunicarse conmigo.
+Tecnologías que usé
 
-🛠️ Tecnologías Utilizadas
+HTML y CSS para la estructura y estilos
+JavaScript para las interacciones
+Bootstrap porque hace que todo se vea bien en celulares y tablets
+jQuery para algunas funcionalidades del formulario
 
-HTML5
-CSS3
-JavaScript
-Bootstrap 5.3.8
-jQuery 3.7.1
-
-📋 Estructura del Proyecto
+Estructura de archivos
 portfolio/
 ├── index.html
 ├── assets/
@@ -23,33 +21,13 @@ portfolio/
 │   │   └── styles.css
 │   └── Js/
 │       └── script.js
-└── README.md
 
-🎨 Secciones
+Cómo verlo
+Solo tienes que descargar los archivos y abrir el index.html en cualquier navegador. Funciona sin necesidad de instalar nada adicional.
+o directamente en el siguiente link:
+https://cescaper.github.io/E6-M2-Cristian-Escamilla/
 
-Hero/Inicio: Presentación principal con llamado a la acción
-Sobre Mí: Resumen ejecutivo, perfil profesional, educación e intereses
-Experiencia: Historial laboral detallado
-Habilidades: Tecnologías, herramientas y certificaciones
-Contacto: Formulario de contacto y enlaces a redes sociales
+Contacto
+Si quieres saber más sobre mi trabajo o tienes algún proyecto en mente, puedes encontrarme en LinkedIn
 
-🚦 Cómo Usar
-
-Clona o descarga este repositorio
-Asegúrate de tener la estructura de carpetas correcta
-Abre index.html en tu navegador
-Personaliza el contenido según tus necesidades
-
-📱 Responsive Design
-El sitio está optimizado para:
-
-Desktop (1200px+)
-Tablet (768px - 1199px)
-Mobile (< 768px)
-
-📧 Contacto
-
-LinkedIn: Cristian Escamilla
-
-📄 Licencia
-© 2025 Cristian Escamilla. Todos los derechos reservados.
+Hecho por Cristian Escamilla - 2025
